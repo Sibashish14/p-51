@@ -1,0 +1,11 @@
+.tcsTitle{
+    display:flex;
+    background-color: #ffff2f;
+    justify-content:center;
+    border-width:50px;
+    border-style:groove;
+    border-color:green;
+}
+body{
+    background-color:orange;
+}

@@ -1,0 +1,14 @@
+.marutiSuzukiTitle{
+    display:flex;
+    background-color:#814381;
+    justify-content:center;
+    border-style:outset;
+    border-width:32px;
+    border-color:rgb(255, 0, 234);
+}
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}

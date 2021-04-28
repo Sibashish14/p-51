@@ -1,0 +1,21 @@
+.flipkartTitle{
+    display:flex;
+    background-color:#ffff00;
+    justify-content:center;
+    color:#01037f;
+    border-color:blue;
+    border-style:inset;
+    border-width:30px;
+}
+h2{
+    color:darkgoldenrod;
+}
+p{
+    color:#ffffff;
+}
+body{
+    background-color:rgb(20,120,320);
+}
+.last{
+    justify-content:column-reverse;
+}

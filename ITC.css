@@ -1,0 +1,20 @@
+.itcTitle{
+    display:flex;
+    justify-content:center;
+    background-color:#190269;
+    border-style:outset;
+    border-width:30px;
+    border-color:#13c021;
+}
+p{
+    color:goldenrod;
+}
+h2{
+    color:red;
+}
+body{
+    background-color:rgb(83, 12, 131);
+}
+h1{
+    color:#ffffff;
+}

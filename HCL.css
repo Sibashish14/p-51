@@ -1,0 +1,15 @@
+.hclTitle{
+    display:flex;
+    background-color:#02bff8;
+    border-style:ridge;
+    border-width:20px;
+    border-color:yellow;
+    justify-content:center;
+}
+body{
+    background-color:green;
+}
+p,h2{
+    color:greenyellow;
+    font:100;
+}

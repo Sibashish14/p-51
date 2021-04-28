@@ -1,0 +1,40 @@
+h2{
+    text-align:center;
+}
+.pTitle{
+    display:flex;
+    background-color:bisque;
+    justify-content:center;
+}
+.firstRow{
+    display:flex;
+    justify-content:center;
+}
+.secondRow{
+    display:flex;
+    justify-content:space-between;
+}
+.thirdRow{
+    display:flex;
+    justify-content:center;
+}
+.fourthRow{
+    display:flex;
+    justify-content:space-between;
+    flex-direction:row-reverse;
+}
+.fifthRow{
+    display:flex;
+    justify-content:center;
+}
+.sixthRow{
+    display:flex;
+    justify-content:space-between;
+}
+.seventhRow{
+    display:flex;
+    justify-content:center;
+}
+body{
+    background-color:khaki;
+}

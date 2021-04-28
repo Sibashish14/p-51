@@ -1,0 +1,17 @@
+.infosysTitle{
+    display:flex;
+    justify-content:center;
+    background-color:#000;
+    border-style:dotted;
+    border-width:35px;
+    border-color:#0000ff;
+}
+h1{
+    color:blue;
+}
+p,h2{
+    color:blue;
+}
+body{
+    background-color:#000;
+}
